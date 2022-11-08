@@ -1,3 +1,13 @@
+---  
+htmel:  
+    toc: true  
+    number_sections: true  
+    toc_depth: 6  
+    toc_float: true  
+    collapsed: true  
+    smooth_scroll: true  
+---
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 # 在linux环境下安装搜狗输入法  
 ## 官方教程  
 [搜狗输入法官方教程](https://shurufa.sogou.com/linux/guide)  
