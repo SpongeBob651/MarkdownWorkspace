@@ -1,5 +1,5 @@
 ---  
-htmel:  
+html:  
     toc: true  
     number_sections: true  
     toc_depth: 6  
