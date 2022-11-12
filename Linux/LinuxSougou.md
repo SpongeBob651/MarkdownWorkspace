@@ -3,7 +3,7 @@
   - [官方教程](#官方教程)  
   - [遇到的问题及解决方法](#遇到的问题及解决方法)  
 # 官方教程  
-[https://shurufa.sogou.com/linux/guide](https://shurufa.sogou.com/linux/guide)  
+[搜狗官方教程](https://shurufa.sogou.com/linux/guide)  
 # 遇到的问题及解决方法  
 - **重启后仍然没有搜狗输入法。**  
   如下图所示，需要把“only show current Lauguage”取消勾选，然后在搜索框内找到搜狗，并应用。  
